@@ -4,3 +4,6 @@
 [submodule "modules/libtimer-dev"]
 	path = modules/libtimer-dev
 	url = https://github.com/hypernova-developer/libtimer-dev.git
+[submodule "modules/libstring-dev"]
+	path = modules/libstring-dev
+	url = https://github.com/hypernova-developer/libstring-dev.git

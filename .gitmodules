@@ -7,3 +7,6 @@
 [submodule "modules/libstring-dev"]
 	path = modules/libstring-dev
 	url = https://github.com/hypernova-developer/libstring-dev.git
+[submodule "modules/libvector-dev"]
+	path = modules/libvector-dev
+	url = https://github.com/hypernova-developer/libvector-dev.git

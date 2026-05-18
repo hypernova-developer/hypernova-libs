@@ -10,3 +10,6 @@
 [submodule "modules/libvector-dev"]
 	path = modules/libvector-dev
 	url = https://github.com/hypernova-developer/libvector-dev.git
+[submodule "modules/libcryptor-dev"]
+	path = modules/libcryptor-dev
+	url = https://github.com/hypernova-developer/libcryptor-dev.git

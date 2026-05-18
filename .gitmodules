@@ -1,0 +1,3 @@
+[submodule "modules/liblogger-dev"]
+	path = modules/liblogger-dev
+	url = https://github.com/hypernova-developer/liblogger-dev.git

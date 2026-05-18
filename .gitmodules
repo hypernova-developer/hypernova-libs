@@ -1,3 +1,6 @@
 [submodule "modules/liblogger-dev"]
 	path = modules/liblogger-dev
 	url = https://github.com/hypernova-developer/liblogger-dev.git
+[submodule "modules/libtimer-dev"]
+	path = modules/libtimer-dev
+	url = https://github.com/hypernova-developer/libtimer-dev.git

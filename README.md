@@ -10,7 +10,7 @@ This is the centre of all the libraries I have developed.
  - liblogger-dev
 
 ## Project Lead
-This project is being developed by **hypernova-developer**. 
+This hub is being contributed by **hypernova-developer**. 
 
 ## Licensing
 This project is protected under the **GNU GPL v3.0** License. All rights reserved by **hypernova-developer**.
